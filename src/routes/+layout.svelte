@@ -7,10 +7,12 @@
 	import Footer from '$lib/components/Footer.svelte';
 	import { onMount } from 'svelte';
 	import { injectAnalytics } from '@vercel/analytics/sveltekit';
+	import { injectSpeedInsights } from '@vercel/speed-insights/sveltekit';
 
 	let { children } = $props();
 
 	injectAnalytics();
+	injectSpeedInsights();
 
 	onMount(() => {
 		(function (w, d, s, l, i) {
