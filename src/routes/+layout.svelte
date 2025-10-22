@@ -6,8 +6,11 @@
 	import Navbar from '$lib/components/Navbar.svelte';
 	import Footer from '$lib/components/Footer.svelte';
 	import { onMount } from 'svelte';
+	import { injectAnalytics } from '@vercel/analytics/sveltekit';
 
 	let { children } = $props();
+
+	injectAnalytics();
 
 	onMount(() => {
 		(function (w, d, s, l, i) {
