@@ -52,6 +52,28 @@
 		name="description"
 		content="Zobacz naszą galerię zdjęć przedstawiającą komfortowe pokoje, nowoczesne wyposażenie i piękne otoczenie Rezydencji Seniora Leśny Zakątek w Nowogardzie."
 	/>
+	<meta name="author" content="Rezydencja Seniora Leśny Zakątek" />
+	<meta
+		name="keywords"
+		content="galeria, dom opieki, senior, Nowogard, opieka nad osobami starszymi, pokoje, rehabilitacja, zachodniopomorskie"
+	/>
+	<meta
+		property="og:title"
+		content="Rezydencja Seniora Leśny Zakątek | Dom Opieki w Nowogardzie - Galeria"
+	/>
+	<meta
+		property="og:description"
+		content="Zobacz naszą galerię zdjęć przedstawiającą komfortowe pokoje, nowoczesne wyposażenie i piękne otoczenie Rezydencji Seniora Leśny Zakątek w Nowogardzie."
+	/>
+	<meta property="og:type" content="website" />
+	<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "WebSite",
+			"name": "Rezydencja seniora Leśny Zakątek - Galeria",
+			"url": "https://rslesnyzakatek.pl/gallery"
+		}
+	</script>
 </svelte:head>
 
 <div class="min-h-screen">
