@@ -15,27 +15,6 @@
 		name="description"
 		content="Nowoczesny dom opieki nad osobami starszymi w Nowogardzie. Profesjonalna opieka, rehabilitacja, komfortowe warunki w otoczeniu przyrody."
 	/>
-	<meta name="author" content="Rezydencja Seniora Leśny Zakątek" />
-	<meta
-		name="keywords"
-		content="dom opieki, senior, Nowogard, opieka nad osobami starszymi, rehabilitacja, zachodniopomorskie"
-	/>
-
-	<meta property="og:title" content="Rezydencja Seniora Leśny Zakątek | Dom Opieki w Nowogardzie" />
-	<meta
-		property="og:description"
-		content="Nowoczesny dom opieki nad osobami starszymi w Nowogardzie. Profesjonalna opieka, rehabilitacja, komfortowe warunki w otoczeniu przyrody."
-	/>
-	<meta property="og:type" content="website" />
-
-	<script type="application/ld+json">
-		{
-			"@context": "https://schema.org",
-			"@type": "WebSite",
-			"name": "Rezydencja seniora Leśny Zakątek",
-			"url": "https://rslesnyzakatek.pl"
-		}
-	</script>
 </svelte:head>
 
 <Hero />
