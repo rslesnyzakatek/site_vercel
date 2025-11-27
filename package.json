@@ -26,6 +26,7 @@
 		"eslint-config-prettier": "^10.1.8",
 		"eslint-plugin-svelte": "^3.12.4",
 		"globals": "^16.4.0",
+		"mdsvex": "^0.11.2",
 		"prettier": "^3.6.2",
 		"prettier-plugin-svelte": "^3.4.0",
 		"prettier-plugin-tailwindcss": "^0.6.14",
@@ -38,11 +39,13 @@
 	},
 	"dependencies": {
 		"@emailjs/browser": "^4.4.1",
+		"@keystatic/core": "^0.5.48",
 		"@lucide/svelte": "^0.544.0",
 		"@splidejs/svelte-splide": "^0.2.9",
 		"@vercel/analytics": "^1.5.0",
 		"@vercel/speed-insights": "^1.2.0",
 		"emailjs-com": "^3.2.0",
+		"mdsvex": "^0.12.6",
 		"swiper": "^12.0.2"
 	}
 }

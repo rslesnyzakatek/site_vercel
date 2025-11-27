@@ -1,0 +1,26 @@
+# static/admin/config.yml
+
+# Konfiguracja backendu
+backend:
+  name: github
+  branch: master
+  repo: rslesnyzakatek/site_vercel
+
+local_backend: true
+
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
+
+
+collections:
+  - name: "blog"
+    label: "Blog"
+    folder: "src/posts"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Tytuł", name: "title", widget: "string"}
+      - {label: "Data publikacji", name: "date", widget: "datetime"}
+      - {label: "Obrazek główny", name: "thumbnail", widget: "image", required: true}
+      - {label: "Krótki opis", name: "shortDescription", widget: "text", required: true}
+      - {label: "Treść", name: "body", widget: "markdown"}

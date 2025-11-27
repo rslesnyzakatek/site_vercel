@@ -18,6 +18,7 @@
 		{ label: 'Aktywności', href: '/#activities' },
 		{ label: 'Posiłki', href: '/#dining' },
 		{ label: 'Lokalizacja', href: '/#location' },
+		{ label: 'Blog', href: '/blog' },
 		{ label: 'Galeria', href: '/gallery' }
 	];
 

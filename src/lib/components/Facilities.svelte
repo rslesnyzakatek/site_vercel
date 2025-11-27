@@ -8,7 +8,11 @@
 		Accessibility,
 		Users,
 		Heart,
-		Award
+		Award,
+		Stethoscope,
+		Scissors,
+		Sparkles,
+		Wifi
 	} from '@lucide/svelte';
 
 	const facilities = [
@@ -107,6 +111,78 @@
 						<span class="font-semibold">Indywidualne podejście</span>
 					</div>
 				</div>
+			</div>
+		</div>
+
+		<div class="grid gap-6 md:grid-cols-3">
+			<div
+				class="rounded-xl border border-border bg-card p-6 shadow-md transition-shadow hover:shadow-lg"
+			>
+				<Stethoscope class="mb-4 h-10 w-10 text-primary" />
+				<h3 class="mb-3 text-xl font-bold text-foreground">Konsultacje specjalistyczne</h3>
+				<p class="mb-3 leading-relaxed text-muted-foreground">
+					Dostęp do prywatnych konsultacji z lekarzami specjalistami:
+				</p>
+				<div class="flex flex-wrap gap-2">
+					<span
+						class="inline-flex items-center gap-1 rounded-full bg-primary/10 px-3 py-1 text-sm text-primary"
+					>
+						Laryngolog
+					</span>
+					<span
+						class="inline-flex items-center gap-1 rounded-full bg-primary/10 px-3 py-1 text-sm text-primary"
+					>
+						Kardiolog
+					</span>
+					<span
+						class="inline-flex items-center gap-1 rounded-full bg-primary/10 px-3 py-1 text-sm text-primary"
+					>
+						Psychiatra
+					</span>
+				</div>
+			</div>
+
+			<div
+				class="rounded-xl border border-border bg-card p-6 shadow-md transition-shadow hover:shadow-lg"
+			>
+				<Sparkles class="mb-4 h-10 w-10 text-primary" />
+				<h3 class="mb-3 text-xl font-bold text-foreground">Usługi kosmetyczne</h3>
+				<p class="mb-3 leading-relaxed text-muted-foreground">
+					Rezydenci mogą korzystać z szerokiej gamy usług:
+				</p>
+				<div class="flex flex-wrap gap-2">
+					<span
+						class="inline-flex items-center gap-1 rounded-full bg-primary/10 px-3 py-1 text-sm text-primary"
+					>
+						Fryzjer
+					</span>
+					<span
+						class="inline-flex items-center gap-1 rounded-full bg-primary/10 px-3 py-1 text-sm text-primary"
+					>
+						Podolog
+					</span>
+					<span
+						class="inline-flex items-center gap-1 rounded-full bg-primary/10 px-3 py-1 text-sm text-primary"
+					>
+						Kosmetyczka
+					</span>
+					<span
+						class="inline-flex items-center gap-1 rounded-full bg-primary/10 px-3 py-1 text-sm text-primary"
+					>
+						Manicure & Pedicure
+					</span>
+				</div>
+			</div>
+
+			<div
+				class="rounded-xl border border-border bg-card p-6 shadow-md transition-shadow hover:shadow-lg"
+			>
+				<Wifi class="mb-4 h-10 w-10 text-primary" />
+				<h3 class="mb-3 text-xl font-bold text-foreground">WiFi w całym budynku</h3>
+				<p class="leading-relaxed text-muted-foreground">
+					Zapewniamy bezpłatny dostęp do sieci WiFi na terenie całego ośrodka dla wygody naszych
+					rezydentów i ich rodzin.
+				</p>
 			</div>
 		</div>
 	</div>
