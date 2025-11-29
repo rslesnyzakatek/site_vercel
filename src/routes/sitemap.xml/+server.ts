@@ -1,9 +1,10 @@
 import type { RequestHandler } from './$types';
 
-const BASE_URL = 'https://rslesnyzakatek.pl';
+const BASE_URL = 'https://www.rslesnyzakatek.pl';
 const routes = [
     '',
-    'gallery'
+    'gallery',
+    'blog'
 ];
 
 export const GET: RequestHandler = async () => {
