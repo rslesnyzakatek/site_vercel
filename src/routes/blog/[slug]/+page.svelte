@@ -1,6 +1,6 @@
 <script>
 	import Button from '$lib/ui/Button.svelte';
-	import { ArrowLeft, Calendar, Link } from '@lucide/svelte';
+	import { ArrowLeft, Calendar, Link, User } from '@lucide/svelte';
 
 	export let data;
 
@@ -29,6 +29,10 @@
 					<Calendar class="h-5 w-5" />
 					{formatted}
 				</span>
+				<span class="flex items-center gap-2">
+					<User class="h-5 w-5" />
+					Rezydencja Seniora Leśny Zakątek
+				</span>
 			</div>
 
 			<div class="mb-8 aspect-[16/9] overflow-hidden rounded-xl shadow-lg">
@@ -36,13 +40,13 @@
 			</div>
 		</header>
 
-		<div class="prose prose-lg max-w-none">
+		<div class="prose prose-lg blog-content max-w-none">
 			<svelte:component this={data.content} />
 		</div>
 
 		<div class="mt-12 border-t border-border pt-8">
 			<a href="/blog">
-				<Button variant="outline" clazz="gap-2">
+				<Button variant="outline" clazz="gap-2 cursor-pointer">
 					<ArrowLeft class="h-4 w-4" />
 					Powrót do listy artykułów
 				</Button>
@@ -50,3 +54,41 @@
 		</div>
 	</article>
 </main>
+
+<style>
+	header {
+		margin-bottom: 2rem;
+		border-bottom: 1px solid #eee;
+		padding-bottom: 1rem;
+	}
+
+	h1 {
+		font-size: 2.5rem;
+		font-weight: bold;
+		margin-bottom: 0.5rem;
+	}
+
+	.blog-content :global(p) {
+		margin-bottom: 1.5em;
+		line-height: 1.6;
+		font-size: 1.1rem;
+	}
+
+	.blog-content :global(h2) {
+		margin-top: 2em;
+		margin-bottom: 0.5em;
+		font-size: 1.8rem;
+		font-weight: bold;
+	}
+
+	.blog-content :global(ul),
+	.blog-content :global(ol) {
+		margin-bottom: 1.5em;
+		padding-left: 1.5em;
+		list-style-type: disc;
+	}
+
+	.blog-content :global(strong) {
+		font-weight: bold;
+	}
+</style>
