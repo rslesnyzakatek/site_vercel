@@ -13,12 +13,13 @@ Choć nadciśnienie często rozwija się bezobjawowo, organizm czasem wysyła na
 
 **Objawy, które mogą sugerować problemy z ciśnieniem:**
 
-- 🤕 **Bóle głowy**, szczególnie dokuczliwe rano.\*\*
-**- \*\*👂 Szumy w uszach** i zawroty głowy.\*\*
-**- \*\*💓 Uczucie kołatania serca**.\*\*
-**- \*\*📉 Przewlekłe zmęczenie** i problemy z koncentracją.
+- 🤕 **Bóle głowy**, szczególnie dokuczliwe rano.
+- **👂 Szumy w uszach** i zawroty głowy.
+- **💓 Uczucie kołatania serca**.
+- **📉 Przewlekłe zmęczenie** i problemy z koncentracją.
 
-> **Ważne:** Pamiętaj, że wiele osób z nadciśnieniem nie odczuwa żadnych dolegliwości. Dlatego tak ważne są **regularne pomiary ciśnienia** – nawet jeśli czujemy się dobrze.
+> **Ważne:** Pamiętaj, że wiele osób z nadciśnieniem nie odczuwa żadnych dolegliwości. 
+> Dlatego tak ważne są **regularne pomiary ciśnienia** – nawet jeśli czujemy się dobrze.
 
 ## Instrukcja krok po kroku: Jak prawidłowo mierzyć ciśnienie?
 
@@ -35,11 +36,11 @@ Aby wynik był wiarygodny, pomiar musi zostać wykonany zgodnie z kilkoma zasada
 
 Farmakologia to nie wszystko. Ogromny wpływ na nasze ciśnienie ma styl życia. W Leśnym Zakątku promujemy proste nawyki, które chronią serce:
 
-- **Ruszaj się** – codzienny spacer to najlepsze i najtańsze lekarstwo.\*\*
-**- \*\*Dbaj o dietę** – ogranicz sól i tłuste potrawy.\*\*
-**- \*\*Unikaj stresu** – spokój to sprzymierzeniec niskiego ciśnienia.\*\*
-**- \*\*Regeneracja** – wysypiaj się i pij wystarczająco dużo wody.\*\*
-**- \*\*Pozytywne nastawienie** – uśmiechaj się, bo serce lubi życzliwość!
+1. **Ruszaj się** – codzienny spacer to najlepsze i najtańsze lekarstwo.
+2. **Dbaj o dietę** – ogranicz sól i tłuste potrawy.
+3. **Unikaj stresu** – spokój to sprzymierzeniec niskiego ciśnienia.
+4. **Regeneracja** – wysypiaj się i pij wystarczająco dużo wody.
+5. **Pozytywne nastawienie** – uśmiechaj się, bo serce lubi życzliwość!
 
 ## Bezpieczna przystań w Leśnym Zakątku
 
