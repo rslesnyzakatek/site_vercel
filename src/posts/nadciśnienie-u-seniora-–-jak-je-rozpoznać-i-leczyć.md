@@ -4,7 +4,42 @@ date: 2025-11-28T08:38:00
 thumbnail: /images/uploads/Lesny Zakatek_Nowogard_cisnienie.png
 shortDescription: Nadciśnienie tętnicze to cichy towarzysz wielu osób po 60. roku życia. Jak prawidłowo mierzyć ciśnienie i jakie objawy powinny niepokoić? Poznaj sprawdzone metody profilaktyki i dowiedz się, jak dbamy o zdrowie serca mieszkańców w naszej Rezydencji Seniora Leśny Zakątek
 ---
-**Nadciśnienie tętnicze jest jedną z najczęstszych chorób wieku senioralnego – statystyki wskazują, że dotyczy aż 70% osób po 60. roku życia. Często nie boli, nie przeszkadza i nie daje wyraźnych sygnałów ostrzegawczych, przez co bywa nazywane "cichym zabójcą".**
+## Cichy wróg – jak rozpoznać nadciśnienie?
 
+Choć nadciśnienie często rozwija się bezobjawowo, organizm czasem wysyła nam sygnały ostrzegawcze. Nie należy ich lekceważyć.
 
-W codziennej pracy w **Rezydencji Seniora Leśny Zakątek w Nowogardzie** wiemy, że nieleczone nadciśnienie każdego dnia obciąża serce i naczynia krwionośne, co może prowadzić do udarów czy zawałów. Dlatego w naszym domu opieki stawiamy na połączenie profesjonalnej opieki medycznej, codziennego ruchu i diety, aby każdy dzień naszych podopiecznych był bezpieczny i spokojny.
+**Objawy, które mogą sugerować problemy z ciśnieniem:**
+
+- 🤕 **Bóle głowy**, szczególnie dokuczliwe rano.
+- 👂 **Szumy w uszach** i zawroty głowy.
+- 💓 **Uczucie kołatania serca**.
+- 📉 **Przewlekłe zmęczenie** i problemy z koncentracją.
+
+> **Ważne:** Pamiętaj, że wiele osób z nadciśnieniem nie odczuwa żadnych dolegliwości. Dlatego tak ważne są **regularne pomiary ciśnienia** – nawet jeśli czujemy się dobrze.
+
+## Instrukcja krok po kroku: Jak prawidłowo mierzyć ciśnienie?
+
+Aby wynik był wiarygodny, pomiar musi zostać wykonany zgodnie z kilkoma zasadami. Oto krótki poradnik:
+
+1. **Wybierz odpowiedni moment** Mierz ciśnienie w spokojnych warunkach. Unikaj pomiaru bezpośrednio po jedzeniu, wysiłku fizycznym czy silnych emocjach. Najlepiej zrób to po 5–10 minutach odpoczynku.
+2. **Usiądź wygodnie** Oprzyj plecy o oparcie krzesła lub fotela. Nogi trzymaj płasko na podłodze – pamiętaj, aby nie zakładać nogi na nogę, gdyż może to zafałszować wynik.
+3. **Ułóż rękę na wysokości serca** Ramię powinno być całkowicie rozluźnione i oparte na stole lub poduszce.
+4. **Załóż mankiet prawidłowo** Umieść go na ramieniu ok. 2–3 cm powyżej zgięcia łokcia. Pamiętaj: mankiet zakładamy na odsłoniętą skórę, nigdy na ubranie.
+5. **Zachowaj spokój** Podczas pomiaru nie rozmawiaj i nie ruszaj się. Nawet drobny ruch ręką może zaburzyć odczyt.
+6. **Zapisz wynik** Najlepiej mierz ciśnienie dwa razy dziennie – rano (przed śniadaniem) i wieczorem. Notuj wyniki w dzienniczku, aby przy najbliższej wizycie pokazać je lekarzowi.
+
+## Jak dbać o serce każdego dnia?
+
+Farmakologia to nie wszystko. Ogromny wpływ na nasze ciśnienie ma styl życia. W Leśnym Zakątku promujemy proste nawyki, które chronią serce:
+
+- **Ruszaj się** – codzienny spacer to najlepsze i najtańsze lekarstwo.
+- **Dbaj o dietę** – ogranicz sól i tłuste potrawy.
+- **Unikaj stresu** – spokój to sprzymierzeniec niskiego ciśnienia.
+- **Regeneracja** – wysypiaj się i pij wystarczająco dużo wody.
+- **Pozytywne nastawienie** – uśmiechaj się, bo serce lubi życzliwość!
+
+### Bezpieczna przystań w Leśnym Zakątku
+
+Wierzymy, że zdrowie seniora to coś więcej niż tylko wyniki badań. To codzienna troska, rozmowa i wspólne chwile, które dają poczucie bezpieczeństwa.
+
+**Zadbajmy o nasze serca – razem.**
