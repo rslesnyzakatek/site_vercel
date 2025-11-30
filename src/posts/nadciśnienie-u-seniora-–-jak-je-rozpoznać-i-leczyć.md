@@ -14,9 +14,9 @@ Choć nadciśnienie często rozwija się bezobjawowo, organizm czasem wysyła na
 **Objawy, które mogą sugerować problemy z ciśnieniem:**
 
 - 🤕 **Bóle głowy**, szczególnie dokuczliwe rano.\*\*
-**- 👂 \*\*Szumy w uszach** i zawroty głowy.\*\*
-**- 💓 \*\*Uczucie kołatania serca**.\*\*
-**- 📉 \*\*Przewlekłe zmęczenie** i problemy z koncentracją.
+- **👂 \*\*Szumy w uszach** i zawroty głowy.\*\*
+- **💓 \*\*Uczucie kołatania serca**.\*\*
+- **📉 \*\*Przewlekłe zmęczenie** i problemy z koncentracją.
 
 > **Ważne:** Pamiętaj, że wiele osób z nadciśnieniem nie odczuwa żadnych dolegliwości. Dlatego tak ważne są **regularne pomiary ciśnienia** – nawet jeśli czujemy się dobrze.
 
